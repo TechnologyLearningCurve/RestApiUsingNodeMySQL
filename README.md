@@ -1,2 +1,2 @@
 # RestApiUsingNodeMySQL
-Rest service using node.js
+Rest service using node.js with MySql database

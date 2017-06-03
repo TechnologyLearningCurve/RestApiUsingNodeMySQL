@@ -1,0 +1,20 @@
+{
+  "name": "restapiusingnodemysql",
+  "version": "1.0.0",
+  "description": "First restful api using node js and mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Kusam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  }
+}
